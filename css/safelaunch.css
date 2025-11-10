@@ -1,0 +1,9 @@
+a {
+ Color: black;
+}
+
+body {
+  background-image: url('../images/background1024x640.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
